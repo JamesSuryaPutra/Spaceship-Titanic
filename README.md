@@ -1,5 +1,6 @@
 # Spaceship Titanic
 
+# Description
 Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four lightyears away and things aren't looking good.
 
 The Spaceship Titanic was an interstellar passenger liner launched a month ago. With almost 13,000 passengers on board, the vessel set out on its maiden voyage transporting emigrants from our solar system to three newly habitable exoplanets orbiting nearby stars.
@@ -9,3 +10,6 @@ While rounding Alpha Centauri en route to its first destination, the torrid 55 C
 To help rescue crews and retrieve the lost passengers, you are challenged to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
 
 Help save them and change history!
+
+# Evaluation
+Submissions are evaluated based on their classification accuracy, the percentage of predicted labels that are correct.
